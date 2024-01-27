@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Technologies:
+
+- [Tailwindcss](https://tailwindcss.com)
+- [NextJS](https://nextjs.org/)
+- [React 18](https://react.dev)
+- [typeScript](https://typesciprt.org)
+- [Eslint](https://eslint.com)
+
 ## Getting Started
 
 First, run the development server:
